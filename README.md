@@ -40,4 +40,4 @@ DevRadar é uma aplicação onde devs podem encontrar outros devs próximos que 
 1.  Mova-se para a pasta do app mobile:  `cd mobile`
 2.  Execute `yarn start` para iniciar o app mobile
 
-❗️  O app foi testado diretamente em um dispositivo físico por meio do app Expo. É preciso alterar o endereço ip em **mobile/src/services/api.js** e em **mobile/src/services/socket.js**.
+❗️  O app foi testado diretamente em um dispositivo físico por meio do app Expo. É preciso alterar o endereço ip em **mobile/src/services/api.js** e em **mobile/src/services/socket.js**
